@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+.jumbotron {
+  background-image: url("../images/bg3.jpg");
+  width: 100%;
+  background-repeat:no-repeat;
+  color: #fff;
+  font-family: Montserrat, sans-serif;
+}
+#contents{
+	margin-top:375px;
+	text-align:center;
+}
+img{
+	/*border: 2px solid #003c51;
+	border-radius: 50%;*/
+	text-align:center;
+	margin:auto;
+}
+
+h4,h5{
+	color:#000;
+	line-height:20px;
+}
+#Aboout{
+
+}

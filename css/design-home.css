@@ -1,0 +1,26 @@
+*{
+	box-sizing: border-box;
+}
+#box-wrapper{
+	background-image: url("../images/bg1.png");
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;
+}
+.jumbotron{
+	 background-image: url("../images/bg1.png");
+	 padding: 250px 25px;
+}
+
+
+.modal-dialog{
+	margin-top:150px;
+}
+#three{
+	border: 1px solid #222;
+	text-align:center;
+	margin-top:0 auto;
+	position:relative;	
+}

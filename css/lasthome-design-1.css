@@ -1,0 +1,20 @@
+* {
+	box-sizing: border-box;
+}
+.jumbotron {
+  background-image: url("../images/bg5.jpg");
+  width: 100%;
+  color: #fff;
+  font-family: Montserrat, sans-serif;
+}
+.thumbnail {
+	border:none;
+	margin-top:0;
+}
+.thumbnail img{
+	border: 2px solid #003c51;
+	border-radius: 50%;
+}
+#Aboout{
+	background-color:#000;
+}
